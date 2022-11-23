@@ -1,4 +1,4 @@
-<center>
+<p align="center">
 
 # Hello there!
 
@@ -45,4 +45,4 @@ Check out my [Resume 💼](https://www.canva.com/design/DAFPRmTdgCQ/0fecGpKwTRFR
 
 [![Travis's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=liucidity&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/liucidity)
 
-</center>
+</p>
