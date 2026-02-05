@@ -13,7 +13,7 @@
 <!--Check out my [Resume 💼](https://www.canva.com/design/DAFPRmTdgCQ/0fecGpKwTRFReqgI30EzdQ/view?utm_content=DAFPRmTdgCQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/travis-liu/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:travisliu708@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@travisliu.com)
 
 
 
