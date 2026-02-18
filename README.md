@@ -1,21 +1,35 @@
-<div align="center">
+<div align="left">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello%20World!%20I'm%20Travis&desc=•%20Scalable%20Backend%20Architect%20|%20API%20and%20Destributed%20Systems%20•&reversal=false&section=header&animation=fadeIn&textBg=false&descAlignY=64" />
 
-# Hello there!
+# aka liucidity
+Full Stack Developer based in Canada 🇨🇦
 
-| I'm Travis, Full Stack Developer based in Canada 🇨🇦 |
+<!-- 💡 **Tip**  
+> 123 -->
+
+  
+<!--Check out my [Resume 💼](https://www.canva.com/design/DAFPRmTdgCQ/0fecGpKwTRFReqgI30EzdQ/view?utm_content=DAFPRmTdgCQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
+<!-- # About Me & Contact
 
 | I'm passionate about all things tech |
 
 | I enjoy creating accessibiliity and convenience to people and businesses |
 
-| Coder 👨🏻‍💻 | Gamer 👾 | Snowboarder 🏂🏻 |
-  
-<!--Check out my [Resume 💼](https://www.canva.com/design/DAFPRmTdgCQ/0fecGpKwTRFReqgI30EzdQ/view?utm_content=DAFPRmTdgCQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
+| Coder 👨🏻‍💻 | Gamer 👾 | Snowboarder 🏂🏻 | -->
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/travis-liu/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@travisliu.com)
 
+# 🔧 What I do now
+- Building LinguaX - 
+- Strengthening data structures & algorithms (LeetCode 150)
+- Looking for the next perfect fit
 
+# ✨ I can help with
+- Database Architecture & Schema Design 
+- Scalable API Design & Development 
+- Custom Tools & Workflow Automation  
+- Developer Mentorship & Code Review  
 
 # Technologies & Tools
 
@@ -38,11 +52,10 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
 
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
 [![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)]()
 [![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)]()
 [![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)]()
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
-
 <!-- []() -->
 
 <!-- [![Travis's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=liucidity&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/liucidity) -->
